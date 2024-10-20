@@ -1,10 +1,19 @@
-# GTTextures
-this is a mod for gorilla tag that makes texture packs a thing 
+## GTTextures - 1.0.0
+A mod to add custom textures to your gorilla tag experience with over many packs customize your gtag experience with the GTTextures pack today
 
-this mod comes with a gui where you can select texture packs you want to use you can learn how to make texture packs by joining the discord: https://discord.gg/P8n4UPWu
+## How does it work
+* Import the DLL and the textures folder into your Gtag plug-ins 
+* Then add a texture pack into the textures folder 
+* Load GTAG up 
+* A button in the top left corner that opens the ui 
+* After clicking it a list of stuff will paper click the pack you wanna enable
 
-this mod comes with a textures folder to test textures 
 
+## links
+
+### GitHub: https://github.com/babyboi272/GTTextures
+
+### discord: https://discord.gg/sGmx9NuvYQ
 
 ![image](https://github.com/user-attachments/assets/5b27948a-a2f0-40e8-a550-82a283a85f2e)
 
