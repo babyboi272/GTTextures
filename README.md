@@ -11,8 +11,6 @@ A mod to add custom textures to your gorilla tag experience with over many packs
 
 ## links
 
-### GitHub: https://github.com/babyboi272/GTTextures
-
 ### discord: https://discord.gg/sGmx9NuvYQ
 
 ![image](https://github.com/user-attachments/assets/5b27948a-a2f0-40e8-a550-82a283a85f2e)
