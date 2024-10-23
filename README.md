@@ -1,4 +1,4 @@
-## GTTextures - 1.0.0
+## GTTextures - ©GTTextures L.L.C
 A mod to add custom textures to your gorilla tag experience with over many packs customize your gtag experience with the GTTextures pack today
 
 ## How does it work
