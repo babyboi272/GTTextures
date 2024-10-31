@@ -7,12 +7,15 @@ A mod to add custom textures to your gorilla tag experience with over many packs
 * Load GTAG up 
 * A button in the top left corner that opens the ui 
 * After clicking it a list of stuff will paper click the pack you wanna enable
+* Get All texture packs from the discord 
 
 
 ## links
 
 ### discord: https://discord.gg/sGmx9NuvYQ
 
-![image](https://github.com/user-attachments/assets/5b27948a-a2f0-40e8-a550-82a283a85f2e)
+![image](https://github.com/user-attachments/assets/ffc5d9f2-ab57-4590-b04d-5bcfd28e8ede)
 
-![image](https://github.com/user-attachments/assets/1101e72d-2e7a-4a48-bd01-a7d7f7a96bfb)
+
+![image](https://github.com/user-attachments/assets/9d4fa4bb-dd23-4717-99d3-a1ae6daccfec)
+
