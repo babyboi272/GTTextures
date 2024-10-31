@@ -5,8 +5,7 @@ A mod to add custom textures to your gorilla tag experience with over many packs
 * Import the DLL and the textures folder into your Gtag plug-ins 
 * Then add a texture pack into the textures folder 
 * Load GTAG up 
-* A button in the top left corner that opens the ui 
-* After clicking it a list of stuff will paper click the pack you wanna enable
+* Once in gorilla tag there will be a list of items MAKE SURE TO CHANGE THE SETTINGS 
 * Get All texture packs from the discord 
 
 
